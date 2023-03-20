@@ -1,0 +1,8 @@
+{
+  "name": "my-crypto-wallet",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "ethereum-cryptography": "^1.2.0",
+    "ethers": "^6.1.0"
+  }
+}
